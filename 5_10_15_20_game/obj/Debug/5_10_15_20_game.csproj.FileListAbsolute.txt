@@ -1,0 +1,7 @@
+c:\users\user\source\repos\5_10_15_20_game\5_10_15_20_game\bin\Debug\5_10_15_20_game.exe.config
+c:\users\user\source\repos\5_10_15_20_game\5_10_15_20_game\bin\Debug\5_10_15_20_game.exe
+c:\users\user\source\repos\5_10_15_20_game\5_10_15_20_game\bin\Debug\5_10_15_20_game.pdb
+c:\users\user\source\repos\5_10_15_20_game\5_10_15_20_game\obj\Debug\5_10_15_20_game.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\5_10_15_20_game\5_10_15_20_game\obj\Debug\5_10_15_20_game.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\5_10_15_20_game\5_10_15_20_game\obj\Debug\5_10_15_20_game.exe
+c:\users\user\source\repos\5_10_15_20_game\5_10_15_20_game\obj\Debug\5_10_15_20_game.pdb
